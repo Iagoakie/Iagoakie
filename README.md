@@ -7,6 +7,9 @@
 
 ![Iago   GitHub  stats](https://github-readme-stats.vercel.app/api?username=Iagoakie&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagoakie&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"> <br/>
@@ -18,4 +21,13 @@
 <img align="center" alt="HTML" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
 
 
-</div> 
+</div><br/>
+Atualmente estou cursando analise e desenvolvimento na IBMR.
+
+Sou um amante da tecnologia, um desenvolvedor Full-Stack Jr em desenvolvimento na RECODE PRO.
+Personality type: Commander (ENTJ-A)
+
+## Email Para contato
+- Iagocaldas58@gmail.com
+
+

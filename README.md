@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagoaki/) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521998231440) 
 
-![Iago   GitHub  stats](https://github-readme-stats.vercel.app/api?username=Iagoakie&show_icons=true&theme=tokyonight)
+![Iago   GitHub  stats](https://github-readme-stats.vercel.app/api?username=iagoakie&show_icons=true&theme=tokyonight)
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 

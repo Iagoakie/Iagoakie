@@ -3,16 +3,17 @@
 
 <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
+
 - 💬 Você pode me perguntar sobre **C#, SQL Server, Java, SQL. Fique à vontade :D**
 
-- 📫 **mariagcoliva@gmail.com**
+- 📫 **iagocaldas58@gmail.com*
 
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
 <a href="https://dev.to/mgabrielacuenca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
-<a href="https://twitter.com/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
-<a href="https://instagram.com/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://twitter.com/gocaldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iagocaldas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iagoaki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>

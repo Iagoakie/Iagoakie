@@ -1,32 +1,21 @@
-### Olá! eu sou o Iago Caldas 👋
+<h1 align="center">Olá 👋, eu me chamo Iago Caldas</h1>
+<h3 align="center">Sou graduanda de Sistemas para Internet, desenvolvedora e especialista em SQL. Trabalhei um bom tempo em suporte técnico com o PostgreSQL, desenvolvendo relatórios customizados para cliente, mas tenho conhecimento nos demais bancos de dados mais utilizados no mercado atualmente. Hoje em dia atuo no Grupo Alura como Instrutora de Dados e tenho me dedicado mais ao BI e Engenharia de Dados :bar_chart:</h3>
 
+<img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-caldas-57b11a206/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagoaki/) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521998231440) 
+- 📝 Costumo escrever alguns artigos no dev.to [https://dev.to/mgabrielacuenca](https://dev.to/mgabrielacuenca)
 
-![Iago   GitHub  stats](https://github-readme-stats.vercel.app/api?username=Iagoakie&show_icons=true&theme=tokyonight)
+- 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, SQL Server, Elasticsearch, Java, Power BI, Tableau, SQL. Fique à vontade :D**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagoakie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 **mariagcoliva@gmail.com**
 
-## Tecnologias que eu uso no meu dia
+<h3 align="left">Redes Sociais</h3>
+<p align="left">
+<a href="https://dev.to/mgabrielacuenca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://twitter.com/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+<a href="https://instagram.com/mgabrielacuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgabrielacuenca" height="30" width="40" /></a>
+</p>
 
-<div style="display: inline_block"> <br/>
-<img align="center" alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
-<img align="center" alt="C++" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white />
-<img align="center" alt="Java" src=	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white />
-<img align="center" alt="SQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-<img align="center" alt="Javascript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
-<img align="center" alt="HTML" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
-
-
-</div><br/>
-Atualmente estou cursando analise e desenvolvimento na IBMR.
-
-Sou um amante da tecnologia, um desenvolvedor Full-Stack Jr em desenvolvimento na RECODE PRO.
-Personality type: Commander (ENTJ-A)
-
-## Email Para contato
-- Iagocaldas58@gmail.com
-
-
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>

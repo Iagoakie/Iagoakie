@@ -1,7 +1,11 @@
 <h1 align="center">Olá 👋, eu me chamo Iago Caldas</h1>
-<h3 align="center">Sou graduandO em analise e desenvolvimento de sistemas, desenvolvedor e analista de dados. Atualmente trabalho com a Linguagem C# e SQL server, desenvolvendo codigos e consultas no banco e também realizando modelagem do banco :bar_chart:</h3>
+<h3 align="center">Sou graduando em analise e desenvolvimento de sistemas, desenvolvedor e analista de dados. Atualmente trabalho com a Linguagem C# e SQL server, desenvolvendo codigos e consultas no banco e também realizando modelagem do banco :bar_chart:</h3>
 
-<img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
+
+
+  
+  
+  <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do    capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
 
 - 💬 Você pode me perguntar sobre **C#, SQL Server, Java, SQL. Fique à vontade :D**

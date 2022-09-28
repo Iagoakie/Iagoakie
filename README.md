@@ -3,9 +3,7 @@
 
 <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
-- 📝 Costumo escrever alguns artigos no dev.to [https://dev.to/mgabrielacuenca](https://dev.to/mgabrielacuenca)
-
-- 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, SQL Server, Elasticsearch, Java, Power BI, Tableau, SQL. Fique à vontade :D**
+- 💬 Você pode me perguntar sobre **C#, SQL Server, Java, SQL. Fique à vontade :D**
 
 - 📫 **mariagcoliva@gmail.com**
 
